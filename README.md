@@ -1,7 +1,7 @@
 # No ad youtube
 Here is youtube with no ads! Installation is below.<br>
 Quick note: this cannot run copyrighted music, so do not try.<br>
-[^1]
+[^note1]
 <details>
   <summary><strong>View Instructions</strong></summary>
   <details>
@@ -28,4 +28,4 @@ Quick note: this cannot run copyrighted music, so do not try.<br>
   </details>
 </details>
 
-[^1]:  Note: these steps are really hard.
+[^note1]:  Note: these steps are really hard.
